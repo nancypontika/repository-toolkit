@@ -15,5 +15,5 @@ description: >-
 
 **Platform Specific Registries**
 
-* [DSpace User Registry](http://registry.duraspace.org/registry/dspace) is a searchable repository listing of dspace platforms around the world
+* [DSpace User Registry](http://registry.duraspace.org/registry/dspace) is a searchable repository listing of dspace platforms around the world. 
 
